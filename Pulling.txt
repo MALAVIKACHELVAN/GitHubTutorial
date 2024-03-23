@@ -1,1 +1,2 @@
 This file is updated from github to VSCode
+Inorder to update this git pull command is used
