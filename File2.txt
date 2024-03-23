@@ -1,0 +1,3 @@
+This is the second File that Im Creating in My VC Workspace
+when you enter git status command,you will get U-->Untracked
+So the command git add filename is used to convert this to added file
